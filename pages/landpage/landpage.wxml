@@ -1,0 +1,4 @@
+<!--pages/landpage.wxml-->
+<view class="bg">
+  <view class="btn" bindtap="openApp"></view>
+</view>

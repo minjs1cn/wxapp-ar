@@ -1,0 +1,20 @@
+/* pages/landpage.wxss */
+
+.bg {
+  background-image: url('https://yun.tuisnake.com/h5-mani/wxapplandpage1/f4a0f12f-9629-462a-a1db-ad48328a4560.png');
+  width: 100%;
+  height: 100vh;
+  background-size: 100%;
+  position: relative;
+}
+
+.btn {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  bottom: 20rpx;
+  width: 650rpx;
+  height: 108rpx;
+  background-image: url('https://yun.dui88.com/h5-mani/wxapplandpage1/f174eac0-bbde-437f-a45b-8c74811e74f4.png');
+  background-size: 100% 100%;
+}
